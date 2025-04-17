@@ -1,2 +1,0 @@
-# progamacao-internet
-repositorio
